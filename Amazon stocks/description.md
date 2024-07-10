@@ -33,7 +33,7 @@ The following KPIs were calculated to provide insights into the stock's performa
 3. **Average Daily Trading Volume**: Reflects the level of investor activity and liquidity of the stock.
 4. **Quarterly Return**: Provides insights into the stock's performance over each quarter, helping to evaluate short-term trends.
 
-## Power BI Dashboard <link> </link>
+## Power BI Dashboard <link> https://github.com/kamalnadh219/DataAnalysis/blob/main/Amazon%20stocks/Amazon%20stocks.pbix </link>
 
 The Power BI dashboard visualizes the following KPIs:
 1. **Average Closing Price**: A line chart or card visualization showing the average closing price over time.
