@@ -83,28 +83,10 @@ Evaluate the performance of FashionElite's recent ad campaign and provide action
 ## Deliverables
 
 ### Performance Data Analysis
-- **File:** [Performance Data Analysis (.xlsx)](link_to_file)
+- **File:** [Performance Data Analysis (.xlsx)]([link_to_file](https://github.com/kamalnadh219/DataAnalysis/blob/main/AD%20Campain/AD-Analysis.xlsx))
 - **Content:** Detailed analysis including all key metrics and visualizations
 
 ### Comparative Report
-- **File:** [Comparative Report (.pdf)](link_to_file)
+- **File:** [Comparative Report (.pdf)]([link_to_file](https://github.com/kamalnadh219/DataAnalysis/blob/main/AD%20Campain/AD-Analysis.xlsx))
 - **Content:** Detailed comparison of ad performance, key insights, and visualizations
 
-### Recommendations for Future Campaigns
-- **File:** [Recommendations for Future Campaigns (.pdf)](link_to_file)
-- **Content:** Actionable recommendations based on the analysis
-
----
-
-## Q&A
-- Invite questions and feedback.
-
-## Execution Plan
-
-### Day 1: Data Collection and Analysis (Morning to Afternoon)
-1. **Collect Data:**
-   - Import data from Google Ads and Facebook Ads into Excel.
-2. **Data Cleaning and Preparation:**
-   - Inspect the data, handle missing values, and add calculated columns.
-3. **Exploratory Data Analysis:**
-   - Generate descriptive statistics and create initial visualizations.
